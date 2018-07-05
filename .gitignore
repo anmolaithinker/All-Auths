@@ -1,2 +1,2 @@
-./node_modules
-./Auth
+node_modules/
+Auth/
